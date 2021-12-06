@@ -1,0 +1,7 @@
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/bin/Debug/ConsoleUI.exe.config
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/bin/Debug/ConsoleUI.exe
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/bin/Debug/ConsoleUI.pdb
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/obj/Debug/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/obj/Debug/ConsoleUI.exe
+/Users/victorli/Dev/RiderProj/TimCorey/SingleResponsibilityPrincipleDemo/ConsoleUI/obj/Debug/ConsoleUI.pdb

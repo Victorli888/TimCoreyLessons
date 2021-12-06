@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPVli", "OCPVli\OCPVli.csproj", "{1FF1454F-AC0B-43B3-AE6D-20E55A9DE864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPLibrary", "OCPLibrary\OCPLibrary.csproj", "{B0F0C553-7F17-4D11-B2D8-7C0BC2367D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF1454F-AC0B-43B3-AE6D-20E55A9DE864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF1454F-AC0B-43B3-AE6D-20E55A9DE864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF1454F-AC0B-43B3-AE6D-20E55A9DE864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF1454F-AC0B-43B3-AE6D-20E55A9DE864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F0C553-7F17-4D11-B2D8-7C0BC2367D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F0C553-7F17-4D11-B2D8-7C0BC2367D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F0C553-7F17-4D11-B2D8-7C0BC2367D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F0C553-7F17-4D11-B2D8-7C0BC2367D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

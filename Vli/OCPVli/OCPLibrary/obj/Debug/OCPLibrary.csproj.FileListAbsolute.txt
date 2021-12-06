@@ -1,0 +1,6 @@
+/Users/victorli/Dev/RiderProj/VliSOLID/OCPVli/OCPLibrary/bin/Debug/OCPLibrary.dll
+/Users/victorli/Dev/RiderProj/VliSOLID/OCPVli/OCPLibrary/bin/Debug/OCPLibrary.pdb
+/Users/victorli/Dev/RiderProj/VliSOLID/OCPVli/OCPLibrary/obj/Debug/OCPLibrary.csproj.AssemblyReference.cache
+/Users/victorli/Dev/RiderProj/VliSOLID/OCPVli/OCPLibrary/obj/Debug/OCPLibrary.csproj.CoreCompileInputs.cache
+/Users/victorli/Dev/RiderProj/VliSOLID/OCPVli/OCPLibrary/obj/Debug/OCPLibrary.dll
+/Users/victorli/Dev/RiderProj/VliSOLID/OCPVli/OCPLibrary/obj/Debug/OCPLibrary.pdb
