@@ -1,6 +1,0 @@
-/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/DegatesVSLambdas/obj/Debug/DegatesVSLambdas.csprojAssemblyReference.cache
-/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/DegatesVSLambdas/obj/Debug/DegatesVSLambdas.csproj.CoreCompileInputs.cache
-/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/DegatesVSLambdas/bin/Debug/DegatesVSLambdas.exe
-/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/DegatesVSLambdas/bin/Debug/DegatesVSLambdas.pdb
-/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/DegatesVSLambdas/obj/Debug/DegatesVSLambdas.exe
-/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/DegatesVSLambdas/obj/Debug/DegatesVSLambdas.pdb
