@@ -1,0 +1,6 @@
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPLibrary/bin/Debug/LSPLibrary.dll
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPLibrary/bin/Debug/LSPLibrary.pdb
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPLibrary/obj/Debug/LSPLibrary.csprojAssemblyReference.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPLibrary/obj/Debug/LSPLibrary.csproj.CoreCompileInputs.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPLibrary/obj/Debug/LSPLibrary.dll
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPLibrary/obj/Debug/LSPLibrary.pdb

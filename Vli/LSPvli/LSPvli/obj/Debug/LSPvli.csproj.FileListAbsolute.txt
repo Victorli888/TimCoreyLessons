@@ -1,0 +1,9 @@
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/bin/Debug/LSPvli.exe
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/bin/Debug/LSPvli.pdb
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/bin/Debug/LSPLibrary.dll
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/bin/Debug/LSPLibrary.pdb
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/obj/Debug/LSPvli.csprojAssemblyReference.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/obj/Debug/LSPvli.csproj.CoreCompileInputs.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/obj/Debug/LSPvli.csproj.CopyComplete
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/obj/Debug/LSPvli.exe
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/LSPvli/LSPvli/obj/Debug/LSPvli.pdb

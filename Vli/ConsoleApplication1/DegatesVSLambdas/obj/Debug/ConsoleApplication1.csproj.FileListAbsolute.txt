@@ -1,0 +1,6 @@
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
