@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPvli", "ISPvli.csproj", "{C6016F6F-9705-4ECC-8616-7DDE8848E276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaTypes", "MediaTypes\MediaTypes.csproj", "{7D61CDFC-5F3C-43F6-8D35-77550C5AED3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6016F6F-9705-4ECC-8616-7DDE8848E276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6016F6F-9705-4ECC-8616-7DDE8848E276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6016F6F-9705-4ECC-8616-7DDE8848E276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6016F6F-9705-4ECC-8616-7DDE8848E276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D61CDFC-5F3C-43F6-8D35-77550C5AED3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D61CDFC-5F3C-43F6-8D35-77550C5AED3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D61CDFC-5F3C-43F6-8D35-77550C5AED3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D61CDFC-5F3C-43F6-8D35-77550C5AED3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
