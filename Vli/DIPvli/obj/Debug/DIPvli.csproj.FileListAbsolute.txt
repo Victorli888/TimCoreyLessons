@@ -1,0 +1,9 @@
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/bin/Debug/DIPvli.exe
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/bin/Debug/DIPvli.pdb
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/bin/Debug/DemoLibrary.dll
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/bin/Debug/DemoLibrary.pdb
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/obj/Debug/DIPvli.csprojAssemblyReference.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/obj/Debug/DIPvli.csproj.CoreCompileInputs.cache
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/obj/Debug/DIPvli.csproj.CopyComplete
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/obj/Debug/DIPvli.exe
+/Users/victorli/Dev/Csharp/TimCoreyLessons/Vli/DIPvli/obj/Debug/DIPvli.pdb

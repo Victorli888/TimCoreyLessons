@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPvli", "DIPvli.csproj", "{48E248FA-C8E8-4953-9DAD-B46B56DFBC27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{B80299F4-2FC1-44D0-8099-89900143FA38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E248FA-C8E8-4953-9DAD-B46B56DFBC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E248FA-C8E8-4953-9DAD-B46B56DFBC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E248FA-C8E8-4953-9DAD-B46B56DFBC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E248FA-C8E8-4953-9DAD-B46B56DFBC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80299F4-2FC1-44D0-8099-89900143FA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80299F4-2FC1-44D0-8099-89900143FA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80299F4-2FC1-44D0-8099-89900143FA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80299F4-2FC1-44D0-8099-89900143FA38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
